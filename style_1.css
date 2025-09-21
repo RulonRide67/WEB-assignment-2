@@ -1,0 +1,51 @@
+body {
+  background: #f2f2f2;
+  font-family: Arial, sans-serif;
+}
+.header {
+  background: #0649a0;       
+  color: #fff;               
+  padding: 80px;             
+  text-align: center;       
+  font-size: 48px;           
+}
+.nav {
+    background: #add8e6;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+.nav a {
+    text-decoration: none;
+    color: #000d58;
+    font-weight: bold;
+    padding: 5px 10px;
+}
+
+.container { padding: 15px; }
+
+.sidebar {
+  float: left;           
+  width: 20%;            
+  padding: 14px;
+  margin: 0%;      
+  border: 1px solid #e6e9ee;
+}
+.aside {
+  float: right;
+  width: 72%;        
+  background: #fff;
+  padding: 32px;
+  border: 1px solid #e6e9ee;
+}
+.footer {
+  position: fixed; 
+  padding: 10px;     
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background: #62d3e7;
+  color: #000000;
+  text-align: center;
+}
