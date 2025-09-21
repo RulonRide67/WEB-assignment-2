@@ -1,0 +1,80 @@
+#page-heading {
+  text-align: center;
+  color: rgb(4, 4, 114);
+  margin: 20px 0;
+}
+
+#form-heading {
+  text-align: center;
+  color: rgb(0, 94, 0);
+  margin: 40px 0 20px;
+}
+
+table {
+  border-collapse: collapse;
+  width: 72%;
+  margin: 0 auto 40px;
+  text-align: center;
+}
+
+th {
+  background-color: #4a8fc7;
+  color: rgb(255, 255, 255);
+  padding: 10px;
+}
+
+td {
+  border: 1px solid #161616;
+  padding: 8px;
+}
+
+tbody tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+tbody tr:nth-child(odd) {
+  background-color: #ffffff;
+}
+
+.highlight-row {
+  background-color: #ffeb3b;
+  font-weight: bold;
+}
+
+.feedback-form {
+  width: 400px;
+  margin: 0 auto 40px;
+  background-color: #f9f9f9;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.feedback-form label {
+  display: block;
+  margin: 10px 0 5px;
+  font-weight: bold;
+}
+
+.feedback-form input,
+.feedback-form select,
+.feedback-form textarea {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 15px;
+  border: 1px solid #a7a7a7;
+  border-radius: 5px;
+}
+
+.feedback-form button {
+  width: 100%;
+  padding: 10px;
+  background-color: #4682b4;
+  color: rgb(255, 255, 255);
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.feedback-form button:hover {
+  background-color: #316381;
+}
