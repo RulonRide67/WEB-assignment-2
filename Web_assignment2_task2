@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <link rel="stylesheet" href="style_2.css">
+</head>
+<body>
+    <h1>Arnold Alois Schwarzenigger</h1>
+
+    <div class="about">
+        <div class="about-text">
+            <h2>Arnold Alois Schwarzenigger</h2>
+            <p>
+                Arnold Alois Schwarzenegger (born July 30, 1947) is an Austrian and American actor, businessman, former politician, and former professional bodybuilder, known for his roles in high-profile action films. He served as the 38th governor of California from 2003 to 2011.
+                 Schwarzenegger began lifting weights at age 15 and won the Mr. Universe title aged 20, and subsequently the Mr.
+                 Olympia title seven times. He is tied with Phil Heath for the joint-second number of all-time Mr.
+                 Olympia wins, behind Ronnie Coleman and Lee Haney, who are joint-first with eight wins each. Nicknamed the "Austrian Oak" in his bodybuilding days, he is regarded as one of the greatest bodybuilders of all time.
+                He has written books and articles about bodybuilding, including the autobiographical Arnold: The Education of a Bodybuilder (1977) and The New Encyclopedia of Modern Bodybuilding (1998).[6][7] The Arnold Sports Festival, the second-most prestigious bodybuilding event after the Mr.
+                 Olympia competition, is named after him.[8] He appeared in the bodybuilding documentary Pumping Iron (1977), which set him on his way to a career in films.
+            </p>
+        </div>
+        <div class="about-img">
+            <img src="Arnold_image.jpg" alt="Arnold_image">
+        </div>
+    </div>
+
+    <div class="achievements">
+        <h2>Achievements</h2>
+        <ul>
+            <li>Dominating in the bodybuilding, winning the Mr. Olympia title seven times.</li>
+            <li>Used to be a major(most) Hollywood action star with iconic roles.</li>
+            <li>He served two terms as the Governor of California.</li>
+            <li>He successfully built a business and real estate empire, making him a millionaire.</li>
+        </ul>
+    </div>
+
+    <div class="footer">
+        The coolest men in the world
+    </div>
+</body>
+</html>
