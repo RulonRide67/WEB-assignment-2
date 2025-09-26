@@ -4,6 +4,20 @@ body {
     padding: 0;
     text-align: center;
 }
+.nav {
+    background: #add8e6;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+.nav a {
+    text-decoration: none;
+    color: #000d58;
+    font-weight: bold;
+    padding: 5px 10px;
+}
+
 .main {text-align: center;}
 h1 {
     background-color: #0b2a4a;
@@ -54,3 +68,4 @@ h1 {
     left: 0;
     bottom: 0;
 }
+
